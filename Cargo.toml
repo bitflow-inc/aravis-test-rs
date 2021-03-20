@@ -1,0 +1,11 @@
+[package]
+name = "aravis-test-rs"
+version = "0.1.0"
+authors = ["Sungjoon Kim <ted@bitflow.ai>"]
+edition = "2018"
+
+
+[dependencies]
+aravis = "0.6.0"
+aravis-sys = "0.6.0"
+aravis-utils = "0.6.0"
